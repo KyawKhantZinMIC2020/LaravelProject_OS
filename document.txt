@@ -1,0 +1,5 @@
+.blade TE
+
+Under views folder name
+***********************
+-.blade.php
